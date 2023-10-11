@@ -17,7 +17,7 @@
         <a href="#">Contact</a>
     </nav>
     <div class="container">
-        <h2>About Us</h2>
+        <h2>About Me</h2>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor orci sit amet ante varius luctus.
             Sed euismod, justo at rhoncus vehicula, justo ex cursus odio, a fermentum libero nunc non urna. Sed euismod,
