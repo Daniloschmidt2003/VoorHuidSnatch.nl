@@ -11,10 +11,12 @@
         <h1>Welcome to My Nice HTML Page</h1>
     </header>
     <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Contact</a>
+        <a href="quinn.php">quinn</a>
+        <a href="jasper.php">jasper</a>
+        <a href="rick.php">rick</a>
+        <a href="reinout.php">reinout</a>
+        <a href="danilo.php">danilo</a>
+        <a href="dylan.php">dylan</a>
     </nav>
     <div class="container">
         <h2>About Me</h2>

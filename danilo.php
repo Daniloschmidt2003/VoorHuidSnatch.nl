@@ -8,24 +8,33 @@
 </head>
 <header>
 <h1>dylan is niet groot</h1>
-
+<a href="quinn.php">quinn</a>
+        <a href="jasper.php">jasper</a>
+        <a href="rick.php">rick</a>
+        <a href="reinout.php">reinout</a>
+        <a href="danilo.php">danilo</a>
+        <a href="dylan.php">dylan</a>
 </header>
 <body>
-<div class="wrap">
-    <img src="img/Brilsmurf.png" alt="brilsmurf">
-    <p>haha dylan belike</p>
+<div class="foto1">
+    <div class="wrap">
+        <img src="img/Brilsmurf.png" alt="brilsmurf" width="300px" height="300px">
+        <p>haha dylan belike</p>
+    </div>
+    <div class="wrap">
+        <img src="img/jes.jpg" alt="jes" width="300px" height="300px">
+        <p>reinout</p>
+    </div>
 </div>
-<div class="wrap">
-    <img src="img/jes.png" alt="jes">
-    <p>reinout</p>
-</div>
-<div class="wrap">
-    <img src="img/vrouw.jpg" alt="vrouw">
-    <P>ik zondag avond</P>
-</div>
-<div class="wrap">
-    <img src="img/Zolderraam.jpg" alt="">
-    <p>Yes ik doe dit </p>
+<div class="foto2">
+    <div class="wrap">
+        <img src="img/vrouw.jpg" alt="vrouw"  width="300px" height="300px">
+        <P>ik zondag avond</P>
+    </div>
+    <div class="wrap">
+        <img src="img/Zolderraam.jpg" alt="raam"  width="300px" height="300px">
+        <p>Yes ik doe dit </p>
+    </div>
 </div>
     
 </body>
