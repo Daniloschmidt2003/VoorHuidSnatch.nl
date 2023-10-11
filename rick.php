@@ -25,8 +25,10 @@
             Sed euismod, justo at rhoncus vehicula, justo ex cursus odio, a fermentum libero nunc non urna. Sed euismod,
             justo at rhoncus vehicula, justo ex cursus odio, a fermentum libero nunc non urna.
         </p>
-        <img src="img/lachding.jpeg" alt="">
-        <img src="img/bidenblast.jpg" alt="">
+        <img src="img/lachding.jpeg">
+        <div class="imageContainer">
+        <img src="img/bidenblast.jpg" class="imagethingy">
+        </div>
     </div>
 </body>
 </html>

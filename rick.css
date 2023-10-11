@@ -44,3 +44,9 @@ nav a:hover {
 p {
     line-height: 1.6;
 }
+
+.imagethingy {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
