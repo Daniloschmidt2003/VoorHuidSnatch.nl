@@ -16,3 +16,13 @@ body{
 .bidenblast{
     width: 100%;
 }
+
+nav{
+    margin-top: 5px;
+}
+a{
+    padding: 5px;
+    text-decoration: none;
+    border: solid 2px rebeccapurple;
+    background-color: thistle;
+}
