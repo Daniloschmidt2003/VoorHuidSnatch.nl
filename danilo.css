@@ -1,0 +1,27 @@
+.foto1{
+    display: flex;
+    justify-content: center;
+}
+.foto2{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: aliceblue;
+}
+footer{
+    background-color: aliceblue;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    background-color: aqua;
+}
+p{
+    background-color: blueviolet;
+}
