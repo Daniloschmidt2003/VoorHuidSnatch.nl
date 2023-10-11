@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Nice HTML Page</h1>
+        <h1>Welkom in het heiligdom</h1>
     </header>
     <nav>
         <a href="quinn.php">quinn</a>
@@ -25,12 +25,8 @@
             Sed euismod, justo at rhoncus vehicula, justo ex cursus odio, a fermentum libero nunc non urna. Sed euismod,
             justo at rhoncus vehicula, justo ex cursus odio, a fermentum libero nunc non urna.
         </p>
-        <h2>Our Services</h2>
-        <ul>
-            <li>Web Design</li>
-            <li>Graphic Design</li>
-            <li>Content Writing</li>
-        </ul>
+        <img src="img/lachding.jpeg" alt="">
+        <img src="img/bidenblast.jpg" alt="">
     </div>
 </body>
 </html>
