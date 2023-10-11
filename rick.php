@@ -27,7 +27,10 @@
         </p>
         <img src="img/lachding.jpeg">
         <div class="imageContainer">
-        <img src="img/bidenblast.jpg" class="imagethingy">
+        <img src="img/bidenblast.jpg" class="image">
+            <div class="overlay">
+                <div class="text">BIDEEEEEEEEEEN BLAAAAAAAAAST!!!!!!</div>
+            </div>
         </div>
     </div>
 </body>
