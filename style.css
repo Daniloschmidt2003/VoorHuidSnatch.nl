@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lemonchiffon;
+}
+
 .wrapper{
 	width:70%;
 	margin:0 auto;
@@ -10,4 +15,14 @@
 
 .bidenblast{
     width: 100%;
+}
+
+nav{
+    margin: 10px;
+}
+a{
+    padding: 5px;
+    text-decoration: none;
+    border: solid 2px rebeccapurple;
+    background-color: thistle;
 }
